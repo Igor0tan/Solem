@@ -1,0 +1,14 @@
+.container-video {
+    display: flex;
+    justify-content: center;
+   
+}
+
+.video{
+    padding: 20em 0.2em 3em;
+}
+
+.video-musica{
+    padding: 20em 0.2em 3em;
+}
+

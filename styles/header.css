@@ -1,0 +1,28 @@
+.cabeçalho {
+    margin: 2em 2em;
+}
+
+.cabeçalho__texto {
+    font-size: 20px;
+}
+
+.sinopse {
+    margin: 2em 0;
+    text-align: center;
+}
+
+.sinopse-titulo {
+    margin: 1em;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.sinopse-descricao {
+    margin-bottom: 2em;
+}
+
+.conteudo-secundario__imagem {
+    width: 10%;
+    margin: 2em 0;
+    padding: 2em;
+}

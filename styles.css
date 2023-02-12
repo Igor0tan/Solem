@@ -1,0 +1,23 @@
+@import url(styles/button.css);
+@import url(/styles/header.css);
+@import url(/styles/carrossel.css);
+@import url(/styles/wallpaper.css);
+@import url(styles/video.css);
+@import url(styles/rodape.css);
+
+:root{
+    --fonte-principal: "Josefin Sans";
+
+}
+
+
+body{
+    background-image: linear-gradient(180deg,#E4B7EE, #654189,#1F1B2C); 
+    font-family: var(--fonte-principal);
+}
+
+.slvd-texto{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2em 1em;
+}

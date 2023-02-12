@@ -1,0 +1,20 @@
+.rodape{
+    background: #000000;
+}
+
+.sobre{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 1em;
+}
+
+.lista-sobre__link, .lista-avisos__link, .lista-redes__link{
+    text-decoration: none;
+    padding: 0.5em;
+}
+
+.rodape-copyright{
+    text-align: center;
+    margin-top: 2em;
+    color: #FFFFFF;
+}
